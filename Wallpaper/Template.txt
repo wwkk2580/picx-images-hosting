@@ -16,17 +16,7 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
     <hr>
     <font size=7>
         <small>
-           从此 <a href='https://github.com/'>GitHub</a> 多了一个无聊至极的仓库  🍳
-
-           
-           # Welcome to use PicX
-           
-           [PicX](https://github.com/XPoet/picx) is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.
-           
-           PicX is completely open source, 和 you can use it for free.
-           
-           If you like it, please give it a star on [GitHub](https://github.com/XPoet/picx).
-                   
+           从此 <a href='https://github.com/'>GitHub</a> 多了一个无聊至极的仓库  🍳      
         </small>
     </font>
     <hr>
