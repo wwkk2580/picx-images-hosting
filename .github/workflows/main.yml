@@ -23,10 +23,12 @@ jobs:
         env:
           NAME: ${{ secrets.NAME }}
           EMAIL: ${{ secrets.EMAIL }}
+          TOKEN: ${{ secrets.TOKEN }}
         run: |
           git config --global user.email $EMAIL
           git config --global user.name $NAME
+          git remote set-url origin https://$TOKEN@github.com/${{ github.repository }}.git
           git add ./*
           git commit -m "Update on $(date +%F' '%X)" -a
-          git push
+          git push origin master
           echo 'Happy every day!'
