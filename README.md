@@ -2,9 +2,9 @@
 
 ##### 图片接口
 
-powershell
+```powershell
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
-
+```
 
  ![](https://s.cn.bing.net/th?id=OHR.NazcaBooby_EN-US0971401791_1920x1080.jpg)
 
