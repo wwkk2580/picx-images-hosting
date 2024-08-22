@@ -10,6 +10,7 @@ def api():
     global image_name, Picture_address
 
     # 壁纸接口
+    #https://github.com/rskil/Bing-wallpaper
     # api = requests.get('http://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1').text.split(',')
     api = requests.get('https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US').text
     # 打印访问接口返回信息
