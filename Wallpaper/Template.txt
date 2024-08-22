@@ -20,4 +20,13 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
         </small>
     </font>
     <hr>
+    <font size=7>
+        <small>
+              Welcome to use PicX
+              <a href='https://github.com/XPoet/picx'>PicX</a> is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.
+              PicX is completely open source, 和 you can use it for free.
+              If you like it, please give it a star on <a href='https://github.com/XPoet/picx'>GitHub</a>.
+        </small>
+    </font>
+ <hr>
 </p>
