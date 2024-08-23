@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ````
 
- ![](https://s.cn.bing.net/th?id=OHR.NazcaBooby_EN-US0971401791_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.OceanCityMD_EN-US1389904046_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2024-08-22 13:35:01
+        最近一次爬取时间 - 2024-08-23 10:07:17
     </small>
     <br>
     <hr>
@@ -20,4 +20,13 @@ https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
         </small>
     </font>
     <hr>
+    <font size=7>
+        <small>
+              Welcome to use PicX
+              <a href='https://github.com/XPoet/picx'>PicX</a> is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.
+              PicX is completely open source, 和 you can use it for free.
+              If you like it, please give it a star on <a href='https://github.com/XPoet/picx'>GitHub</a>.
+        </small>
+    </font>
+ <hr>
 </p>
