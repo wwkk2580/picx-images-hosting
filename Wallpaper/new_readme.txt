@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ````
 
- ![](https://s.cn.bing.net/th?id=OHR.VeniceAerial_EN-US4386837118_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.CoyoteGulch_EN-US1769933001_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2024-09-28 10:18:26
+        最近一次爬取时间 - 2024-09-29 10:24:09
     </small>
     <br>
     <hr>
