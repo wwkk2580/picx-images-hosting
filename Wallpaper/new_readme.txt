@@ -6,11 +6,11 @@
 https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US
 ````
 
- ![](https://s.cn.bing.net/th?id=OHR.TasmansArch_EN-US4274981499_1920x1080.jpg)
+ ![](https://s.cn.bing.net/th?id=OHR.BeyondSaype_EN-US4398054405_1920x1080.jpg)
 
 <p align='center' >
     <small>
-        最近一次爬取时间 - 2024-11-20 10:23:40
+        最近一次爬取时间 - 2024-11-21 10:23:33
     </small>
     <br>
     <hr>
